@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![CybernetiX S3C's github stats](https://github-readme-stats.vercel.app/api?username=cybernetix-s3c&show_icons=true&theme=dark)](https://github.com/CybernetiX-S3C)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![CybernetiX S3C's github stats](https://github-readme-stats.vercel.app/api?username=cybernetix-s3c&show_icons=true&theme=dark&repo=github-readme-stats)](https://github.com/CybernetiX-S3C)
 <!--
 **CybernetiX-S3C/CybernetiX-S3C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
